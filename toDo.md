@@ -4,4 +4,4 @@
 
 - kmeans
     - more randomization for initial centroids
-    - check all distances! specifically, in k-means, is the E-step distance squared or not
+    - specifically, in k-means, is the E-step distance squared or not?
