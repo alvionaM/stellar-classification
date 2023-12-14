@@ -5,3 +5,7 @@
 - kmeans
     - more randomization for initial centroids
     - specifically, in k-means, is the E-step distance squared or not?
+
+- PCA
+    - find best m for the final dataset
+    - find some metric maybe for optimal m except for the fraction
