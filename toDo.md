@@ -9,3 +9,7 @@
 - PCA
     - find best m for the final dataset
     - find some metric maybe for optimal m except for the fraction
+
+- Least Squares
+    - What is least squares exactly ?
+    - Must return classes in their primary form in the predict function
