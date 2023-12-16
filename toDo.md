@@ -13,3 +13,4 @@
 - Least Squares
     - What is least squares exactly ?
     - Must return classes in their primary form in the predict function
+    - corresponding sk-learn class?
