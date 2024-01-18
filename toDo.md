@@ -1,5 +1,6 @@
 - obj_id or smth like that
 
+
 - kmeans
     - more randomization for initial centroids
     - Test set results ???
